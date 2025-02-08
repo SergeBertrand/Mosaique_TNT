@@ -15,7 +15,7 @@
 
 ## Informations
 
-Mosaïque TNT permet de visionner des chaînes de télévision TNT en direct grâce à une interface intuitive et personnalisable. L'application supporte le mode multi-écrans et la fonctionnalité Picture-in-Picture (PiP).
+Permet de visionner des chaînes de télévision TNT, écouter la radio en direct grâce à une interface intuitive et personnalisable. L'application supporte le mode multi-écrans et la fonctionnalité Picture-in-Picture (PiP).
 
 ### Fonctionnalités
 
