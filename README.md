@@ -20,7 +20,7 @@ Mosaïque TNT permet de visionner des chaînes de télévision TNT en direct gr�
 ### Fonctionnalités
 
 - **Interface utilisateur intuitive** : Une interface simple et élégante pour naviguer entre les chaînes.
-- **Multi-écrans** : Possibilité de visionner jusqu'à 16 chaînes simultanément.
+- **Multi-écrans** : Possibilité de visionner de 1 à 16 chaînes simultanément.
   ![Mosaïque TNT (multi écrans)](Images/Mosaïque%20TNT%20(multi%20écrans).png)
 - **Picture-in-Picture (PiP)** : Chaque lecteur vidéo supporte la fonctionnalité PiP, vous permettant de continuer à regarder une chaîne dans une fenêtre flottante tout en naviguant sur d'autres onglets ou applications.
   ![Mosaïque TNT (PIP)](Images/Mosaïque%20TNT%20(PIP).png)
