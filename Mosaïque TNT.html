@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mosaïque TNT</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            font-size: small;
+            margin: 10px;
+            padding: 0;
+            display: flex;
+            background-color: #0b0f19;
+        }
+
+        .accordion-container {
+            width: 230px;
+            margin-top: 5px;
+            margin-bottom: 0px;
+            padding: auto;
+        }
+
+        .accordion {
+            margin-top: 10px;
+        }
+
+        .accordion h5 {
+            cursor: pointer;
+            background-color: #21272a;
+            color: #ffffff;
+            font-size: 21px;
+            padding: 5px;
+            border-radius: 5px;
+            margin: 5px;
+            border: 3px solid #353e4c;
+        }
+
+        .accordion h5:hover {
+            color: white;
+            background-color: #193256;
+            border: 3px solid white;
+        }
+
+        .panel {
+            display: none;
+            overflow: hidden;
+            padding: 0 5px;
+            border-radius: 5px;
+        }
+
+        .panel a {
+            display: block;
+            background-color: #19202a;
+            color: #778aa8;
+            font-size: 15px;
+            padding: 5px;
+            margin: 5px 0;
+            border-radius: 5px;
+            text-decoration: none;
+            border: 3px solid #353e4c;
+        }
+
+        .panel a:hover {
+            background-color: #353e4c;
+            color: white;
+            text-decoration: bolder;
+            border: 3px solid white;
+        }
+
+        .video-container {
+            flex-grow: 1;
+            margin-left: 10px;
+            margin-right: 25px;
+            margin-top: 20px;
+            position: fixed; /* Ajoutez cette ligne */
+            top: 0; /* Ajoutez cette ligne */
+            right: 0; /* Ajoutez cette ligne */
+            bottom: 0; /* Ajoutez cette ligne */
+            left: 240px; /* Ajoutez cette ligne */
+        }
+
+        .video-container-1 video {
+            width: 100%;
+            height: 94vh;
+            border: none;
+            background-color: #0b0f19;
+            border-radius: 5px;
+            border: 3px solid #353e4c;
+        }
+
+        .video-container-1 video:hover {
+            border-color: #ffffff;
+        }
+
+        .video-container-4 {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            grid-template-rows: repeat(2, 46vh);
+            gap: 10px;
+            margin-left: 10px;
+            margin-right: 25px;
+            margin-top: 20px;
+        }
+
+        .video-container-4 video {
+            width: 100%;
+            height: 46vh;
+            border: none;
+            background-color: #0b0f19;
+            border-radius: 5px;
+            border: 3px solid #353e4c;
+        }
+
+        .video-container-4 video:hover {
+            border-color: #ffffff;
+        }
+
+        .video-container-9 {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-template-rows: repeat(3, 30vh);
+            gap: 10px;
+            margin-left: 10px;
+            margin-right: 25px;
+            margin-top: 20px;
+        }
+
+        .video-container-9 video {
+            width: 100%;
+            height: 30vh;
+            border: none;
+            background-color: #0b0f19;
+            border-radius: 5px;
+            border: 3px solid #353e4c;
+        }
+
+        .video-container-9 video:hover {
+            border-color: #ffffff;
+        }
+
+        .video-container-16 {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            grid-template-rows: repeat(3, 22vh);
+            gap: 10px;
+            margin-left: 10px;
+            margin-right: 25px;
+            margin-top: 20px;
+        }
+
+        .video-container-16 video {
+            width: 100%;
+            height: 22vh;
+            border: none;
+            background-color: #0b0f19;
+            border-radius: 5px;
+            border: 3px solid #353e4c;
+        }
+
+        .video-container-16 video:hover {
+            border-color: #ffffff;
+        }
+
+        .titre {
+            margin-right: 10px; /* Ajoute un espace entre le texte et l'icône */
+            color: #ffffff;
+        }
+
+        .sous-titre {
+            display: block;
+            flex-direction: wrap;
+            justify-content: center;
+            color: #ffffff; /* Couleur du texte */
+            font-size: 16px; /* Taille du texte */
+            font-weight: bold; /* Gras du texte */
+            margin-left: 10px;
+            margin-bottom: 0px;
+            padding-bottom: 0px;
+        }
+
+        .sous-titre2 {
+            display: block;
+            flex-direction: wrap;
+            justify-content: center;
+            color: #ffffff; /* Couleur du texte */
+            font-size: 16px; /* Taille du texte */
+            margin-left: 10px;
+            margin-bottom: 0px;
+            padding-bottom: 0px;
+        }
+
+        .sous-titre2 a {
+            text-decoration: none; /* Supprime le soulignement du lien */
+            color: inherit; /* Hérite de la couleur du texte parent */
+        }
+
+        .highlight {
+            color: red; /* Texte en rouge */
+            font-weight: bold; /* Texte en gras */
+        }
+
+        .container {
+            display: flex;
+            justify-content: center; /* Centre les éléments horizontalement */
+            align-items: center; /* Centre les éléments verticalement */
+        }
+
+        .titre, .image {
+            display: inline-block;
+            vertical-align: middle; /* Aligne les éléments verticalement au centre */
+        }
+
+        .image img {
+            width: 35px; /* Définit la largeur de l'image */
+            height: 35px; /* Définit la hauteur de l'image */
+        }
+
+        .button-container {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            gap: 13px;
+            margin: 5px 0;
+        }
+
+        .button-container button {
+            width: 45px;
+            height: 45px;
+            font-size: 20px;
+            color: #ffffff;
+            background-color: #21272a;
+            border: 3px solid #353e4c;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .button-container button:hover {
+            background-color: #343c49;
+            border: 3px solid white;
+        }
+    </style>
+</head>
+<body>
+    <div class="accordion-container">
+        <div class="container">
+            <div class="titre"><h1>Mosaïque TNT</h1></div>
+        </div>
+
+        <br>
+        <br>
+        <div class="sous-titre">Choix du nombre d'écrans :</div>
+        <div class="button-container">
+            <button onclick="showVideos(1)">1</button>
+            <button onclick="showVideos(4)">4</button>
+            <button onclick="showVideos(9)">9</button>
+            <button onclick="showVideos(16)">16</button>
+        </div>
+        <br>
+        <div class="accordion">
+            <div class="sous-titre">Liste des chaines TNT :</div>
+
+            <!-- Categorie "TNT" -->
+            <h5>TNT</h5>
+            <div class="panel" style="display: none;">
+                <a href="https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8">ARTE</a>
+                <a href="https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8">CHÉRIE 25</a>
+                <a href="https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8">France 2</a>
+                <a href="https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8">France 3</a>
+                <a href="https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8">France 4</a>
+                <a href="https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8">France 5</a>
+                <a href="https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipe.m3u8">L'EQUIPE</a>
+                <a href="https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.m3u8">M6</a>
+                <a href="https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8">NRJ12</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/103.m3u8'>Novelas</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/172.m3u8'>RTS 1</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/91.m3u8'>Syfy</a>
+                <a href="https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8">TF1</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/77.m3u8'>TFX</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/78.m3u8'>TMC</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/95.m3u8'>TMC Cinéma</a>
+<!--                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a> -->
+            </div>
+
+            <!-- Categorie "infos" -->
+            <h5>Informations</h5>
+            <div class="panel" style="display: none;">
+                <a href="https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8">AFRICA 24</a>
+                <a href="https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8">AFRICANEWS</a>
+            <!--    <a href="https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&amp;end=END">BFM TV</a>-->
+               <a href="https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END">BFM BUSINESS</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/169.m3u8'>BFM TV</a>
+                <a href="https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?start=LIVE&end=END">BFM TV 2</a>
+        <!--         <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/171.m3u8'>CNEWS</a> -->
+                <a href="https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8">CNEWS</a>
+        <!--        <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/170.m3u8'>Euro News</a> -->
+                <a href="https://jmp2.uk/sam-FR2600004SS.m3u8">EURONEWS</a>
+                <a href="https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8">France 24</a>
+        <!--        <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/173.m3u8'>France 24</a> -->
+                <a href="https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8">France INFO</a>
+                <a href="https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8">i24 NEWS</a>
+                <a href="https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8">LCI</a>
+                <a href="https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8">RMC TALK INFO</a>
+                <a href="https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8">RT France</a>
+                <a href="https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8">TV5 MONDE</a>
+                <a href="https://raw.githubusercontent.com/BG47510/tube/main/lemedia.m3u8">LE MÉDIA TV</a>
+<!--                  <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a> -->
+            </div>
+
+            <!-- Categorie "Sport" -->
+            <h5>Sports </h5>
+            <div class="panel" style="display: none;">
+                <a href="https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/44.m3u8">beIN Sports 1</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/49.m3u8'>beIN Sports 2</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/42.m3u8'>beIN Sports 3</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/166.m3u8'>beIN Sport 1 AR</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/167.m3u8'>beIN Sport 2 AR</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/168.m3u8'>beIN Sport 3 AR</a>
+                <a href="https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/106.m3u8">CANAL+</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/88.m3u8'>CANAL+ Foot</a>
+                <!-- <a href="https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/54.m3u8">CANAL+ Sport</a> -->
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/55.m3u8'>CANAL+ Sport</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/56.m3u8'>CANAL+ Sport 2</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/57.m3u8'>CANAL+ Sport 3</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/161.m3u8'>Canal+ Sport 4</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/162.m3u8'>Canal+ Sport 5</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/58.m3u8'>CANAL+ Sport 360</a>
+                <a href="https://webufffit.mizhls.ru/lb/primadazn1fr/index.m3u8">DAZN 1</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/150.m3u8'>DAZN 2</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/160.m3u8'>DAZN 3</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/59.m3u8'>Eurosport 1</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/60.m3u8'>Eurosport 2</a>
+                <a href="https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/33.m3u8">RMC Sport 1</a>
+                <a href="https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/40.m3u8">RMC Sport 2</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/106.m3u8'>???</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/112.m3u8'>Canal+ ???</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/113.m3u8'>L'Equipe sport</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/163.m3u8'>L'Equipe live 1</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/164.m3u8'>L'Equipe live 2</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/139.m3u8'>???</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/141.m3u8'>???</a>
+             <!-- https://sadisflix.ing/live-tv/bein-sports-1.html -->
+            </div>
+
+            <!-- Categorie "musique" -->
+            <h5>Musiques</h5>
+            <div class="panel" style="display: none;">
+                <a href="https://connectiktv.ddns.net:5000/afrobithd/afrobithd/chunklist.m3u8">Afrobit</a>
+                <a href="https://stream.ecable.tv/afrobeats/index.m3u8">Afrobit 2</a>
+                <a href="https://59959724487e3.streamlock.net/stream/live/chunklist_w1814425833.m3u8">BX1 DIRECT</a>
+                <a href="https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8">Bel RTL</a>
+                <a href="https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/master.m3u8">CARAC 1</a>
+                <a href="https://onefmhd.vedge.infomaniak.com/livecast/onefmhd/master.m3u8">CARAC 2</a>
+                <a href="https://rougetv.vedge.infomaniak.com/livecast/rougetv/master.m3u8">CARAC 3</a>
+                <a href="https://clubbingtv-rakuten.amagi.tv/playlist.m3u8">Clubbing TV</a>
+                <a href="https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8">Digital Black Music</a>
+                <a href="https://amg01736-harmonysecomgro-harmonymelody-samsungfr-n25pe.amagi.tv/playlist/amg01736-harmonysecomgro-harmonymelody-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&amp;ads.dnt=%7BTARGETOPT%7D&amp;ads.app_domain=%7BAPP_DOMAIN%7D&amp;ads.app_name=%7BAPP_NAME%7D&amp;ads.tc_string=%7BTC_STRING%7D&amp;ads.coppa=0">Emotion</a>
+                <a href="https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8">FUN RADIO TV</a>
+                <a href="https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8">GÉNÉRATIONS TV</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/110.m3u8'>M6 Music</a>
+                <a href="https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8">Melody TV</a>
+                <a href="https://qwestaaaa-qwestjazz-uk-samsungtv-lew0b.amagi.tv/playlist/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8?ads.did=%7BPSID%7D&amp;ads.dnt=%7BTARGETOPT%7D&amp;ads.app_domain=%7BAPP_DOMAIN%7D&amp;ads.app_name=%7BAPP_NAME%7D&amp;ads.tc_string=%7BTC_STRING%7D&amp;ads.coppa=0">Qwest TV</a>
+                <a href="https://hls.tmacaraibes.com/live/index.m3u8">TMA caraibes</a>
+                <a href="https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8">Trace Urban</a>
+                <a href="https://d3mzlmrngyf08j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-55k4m9whplndi/playlist.m3u8?ads.device_did=%7BPSID%7D&amp;ads.device_dnt=%7BTARGETOPT%7D&amp;ads.app_domain=%7BAPP_DOMAIN%7D&amp;ads.app_name=%7BAPP_NAME%7D&amp;ads.consent=%7BTC_STRING%7D">Vevo Hip-Hop &amp; R&amp;B</a>
+                <a href="https://d3vxz540ozij3t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lv1qzgyv0ee39/playlist.m3u8?ads.device_did=%7BPSID%7D&amp;ads.device_dnt=%7BTARGETOPT%7D&amp;ads.app_domain=%7BAPP_DOMAIN%7D&amp;ads.app_name=%7BAPP_NAME%7D&amp;ads.consent=%7BTC_STRING%7D">Vevo Pop</a>
+
+<!--            <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a> -->
+            </div>
+
+            <!-- Categorie "Documentaires" -->
+            <h5>Documentaires</h5>
+            <div class="panel" style="display: none;">
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/155.m3u8'>AUTOMOTO</a>
+                <a href="https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&amp;end=END">BFM REPORTAGES</a>
+                <a href="https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-enquetesdechoc-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&amp;ads.dnt=%7BTARGETOPT%7D&amp;ads.app_domain=%7BAPP_DOMAIN%7D&amp;ads.app_name=%7BAPP_NAME%7D&amp;ads.tc_string=%7BTC_STRING%7D&amp;ads.coppa=0">Enquetes de Choc</a>
+                <a href="https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-homicide-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&amp;ads.dnt=%7BTARGETOPT%7D&amp;ads.app_domain=%7BAPP_DOMAIN%7D&amp;ads.app_name=%7BAPP_NAME%7D&amp;ads.tc_string=%7BTC_STRING%7D&amp;ads.coppa=0">Homicide</a>
+                <a href="https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8">L'ESPRIT SORCIER TV</a>
+                <a href="https://amg02162-newenconnect-amg02162c1-samsung-fr-579.playouts.now.amagi.tv/playlist/amg02162-newenconnect-leffetpapillon-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&amp;ads.dnt=%7BTARGETOPT%7D&amp;ads.app_domain=%7BAPP_DOMAIN%7D&amp;ads.app_name=%7BAPP_NAME%7D&amp;ads.tc_string=%7BTC_STRING%7D&amp;ads.coppa=0">L'effet papillon</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/81.m3u8'>National Geographic</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/82.m3u8'>National Geographic Wild</a>
+                <a href="https://d3w0weunrynif9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-30cqeaahzofvb/index.m3u8">RMC MYSTERE</a>
+                <a href="https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8">RMC DÉCOUVERTE</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/90.m3u8'>RMC découverte</a>
+                <a href="https://ddt6vdovkiskj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jompzy8pen6vl/index.m3u8">RMC ALERTE SECOURS</a>
+                <a href="https://d3bb0xy15a32jc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3gcgvdj5b4sla/index.m3u8">RMC MECANIC</a>
+                <a href="https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8">RMC STORY</a>
+                <a href="https://d18uxd7zigjv4y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hynzl7bz38ht6/index.m3u8">RMC WOW</a>
+            <!--<a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a>
+                <a href="url">titre</a> -->
+            </div>
+
+            <!-- Categorie "Documentaires" -->
+            <h5>Dessins animés</h5>
+            <div class="panel" style="display: none;">
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/180.m3u8'>Boomerang</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/179.m3u8'>Canal J</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/76.m3u8'>Cartoon Network</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/104.m3u8'>Game One</a>
+                <a href="https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8">GULLI</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/176.m3u8'>J ONE</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/97.m3u8'>Mangas</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/178.m3u8'>Nickelodeon</a>
+                <a href='https://fremtv.lol/live/A6B56AC724C0686C98984A5A92CA1DC1/177.m3u8'>Tiji</a>
+                <!--<a href="url">titre</a>
+                    <a href="url">titre</a>
+                    <a href="url">titre</a>
+                    <a href="url">titre</a>
+                    <a href="url">titre</a>
+                    <a href="url">titre</a>
+                    <a href="url">titre</a>
+                    <a href="url">titre</a>
+                    <a href="url">titre</a>
+                    <a href="url">titre</a>
+                    <a href="url">titre</a> -->
+            </div>
+
+            <!-- Categorie "Radios" -->
+            <h5>Radios</h5>
+            <div class="panel" style="display: none;">
+                <a href="https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/audio-64000/index.m3u8">RTL</a>
+                    <a href="https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/groupfun/national/long/audio-64000/index.m3u8">Fun Radio</a>
+                    <a href="https://stream.radiofrance.fr/mouv/mouv_hifi.m3u8?id=radiofrance">Mouv</a>
+                    <a href="https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8?id=radiofrance">France inter</a>
+                    <a href="https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8?id=radiofrance">France info</a>
+<!--                   <a href="url">titre</a> -->
+            </div>
+                
+        </div>
+    </div>
+
+    <div class="video-container" id="video-container">
+        <video name="content-video" id="content-video" controls></video>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <script>
+        let currentMode = 1; // Initialement en mode 9 écrans
+        let lastUsedVideoIndex = 0; // Index de la dernière vidéo utilisée
+
+        document.querySelectorAll('.accordion h5').forEach(header => {
+            header.addEventListener('click', function() {
+                const panel = this.nextElementSibling;
+                const isVisible = panel.style.display === 'block';
+                document.querySelectorAll('.panel').forEach(p => p.style.display = 'none');
+                if (!isVisible) {
+                    panel.style.display = 'block';
+                }
+            });
+        });
+
+        document.querySelectorAll('.panel a').forEach(link => {
+            link.addEventListener('click', function(event) {
+                event.preventDefault();
+                const targetURL = this.href;
+                const videos = document.querySelectorAll('video');
+                if (currentMode === 1) {
+                    // Remplacer le flux dans le seul video utilisé en mode 1 écran
+                    const video = document.querySelector('video#content-video-1');
+                    if (video) {
+                        loadVideo(video, targetURL);
+                    }
+                } else {
+                    // En mode 4 ou 9 écrans, utiliser la prochaine video disponible en boucle
+                    const video = videos[lastUsedVideoIndex];
+                    loadVideo(video, targetURL);
+                    lastUsedVideoIndex = (lastUsedVideoIndex + 1) % videos.length;
+                }
+            });
+        });
+
+        function loadVideo(video, url) {
+            if (Hls.isSupported()) {
+                const hls = new Hls();
+                hls.loadSource(url);
+                hls.attachMedia(video);
+                hls.on(Hls.Events.MANIFEST_PARSED, function() {
+                    video.play();
+                });
+            } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                video.src = url;
+                video.addEventListener('loadedmetadata', function() {
+                    video.play();
+                });
+            }
+        }
+
+        function showVideos(count) {
+            currentMode = count; // Mettre à jour le mode actuel
+            lastUsedVideoIndex = 0; // Réinitialiser l'index de la dernière vidéo utilisée
+            const videoContainer = document.getElementById('video-container');
+            videoContainer.className = 'video-container video-container-' + count;
+            videoContainer.innerHTML = '';
+            for (let i = 1; i <= count; i++) {
+                const video = document.createElement('video');
+                video.name = `content-video-${i}`;
+                video.id = `content-video-${i}`;
+                video.controls = true;
+                videoContainer.appendChild(video);
+            }
+        }
+
+        window.onload = function() {
+            showVideos(1); // Afficher initialement 9 vidéos
+        };
+    </script>
+</body>
+</html>
