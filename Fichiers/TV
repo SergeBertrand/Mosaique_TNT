@@ -1,5 +1,5 @@
 <div class="accordion-item">
-    <h5> 🖥️ Frembed Club</h5>
+    <h5> 🖥️ Frembed</h5>
     <div class="panel">
         <a href="https://play.frembed.site/api/player.php?id=8" target="content-frame"> 📺 beIN Sport 1</a>
         <a href="https://play.frembed.site/api/player.php?id=9" target="content-frame"> 📺 beIN Sport 2</a>
@@ -214,7 +214,7 @@
     </div>
 </div>
 
-
+<!-- 
 <div class="accordion-item">
     <h5> 🖥️ FreeShot</h5>
     <div class="panel">
@@ -254,4 +254,11 @@
         <a href="https://freeshot.live/embed/RMCSport2.php" target="content-iframe"> 📺 RMC Sport 2</a>
         <a href="https://freeshot.live/embed/SportenFrance.php" target="content-iframe"> 📺 Sport en France</a>
     </div>
+
+    <div class="accordion-item">
+    <h5> 🖥️ Serveur </h5>
+    <div class="panel">
+        <a href="https://freeshot.live/embed/beINSPORTS1FR.php" target="content-iframe"> 📺 beIN SPORTS 1</a>
+    </div>
+    -->
 </div>
