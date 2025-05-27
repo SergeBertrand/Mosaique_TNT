@@ -1,216 +1,216 @@
 <div class="accordion-item">
     <h5> 🖥️ Frembed</h5>
     <div class="panel">
-        <a href="https://play.frembed.site/api/player.php?id=8" target="content-frame"> ▶️ beIN Sport 1</a>
-        <a href="https://play.frembed.site/api/player.php?id=9" target="content-frame"> ▶️ beIN Sport 2</a>
-        <a href="https://play.frembed.site/api/player.php?id=31" target="content-frame"> ▶️ beIN Sport 3</a>
-        <a href="https://play.frembed.site/api/player.php?id=40" target="content-frame"> ▶️ CANAL+</a>
-        <a href="https://play.frembed.site/api/player.php?id=6" target="content-frame"> ▶️ CANAL+ Foot</a>
-        <a href="https://play.frembed.site/api/player.php?id=33" target="content-frame"> ▶️ CANAL+ Formula 1</a>
-        <a href="https://play.frembed.site/api/player.php?id=5" target="content-frame"> ▶️ CANAL+ Sport 360</a>
-        <a href="https://play.frembed.site/api/player.php?id=32" target="content-frame"> ▶️ CANAL+ Sport</a>
-        <a href="https://play.frembed.site/api/player.php?id=28" target="content-frame"> ▶️ Cartoon Network</a>
-        <a href="https://play.frembed.site/api/player.php?id=34" target="content-frame"> ▶️ EUROSPORT 1</a>
-        <a href="https://play.frembed.site/api/player.php?id=35" target="content-frame"> ▶️ EUROSPORT 2</a>
-        <a href="https://play.frembed.site/api/player.php?id=30" target="content-frame"> ▶️ Game One</a>
-        <a href="https://play.frembed.site/api/player.php?id=7" target="content-frame"> ▶️ Mangas</a>
-        <a href="https://play.frembed.site/api/player.php?id=21" target="content-frame"> ▶️ NAT GEO Wild</a>
-        <a href="https://play.frembed.site/api/player.php?id=20" target="content-frame"> ▶️ NAT GEO</a>
-        <a href="https://play.frembed.site/api/player.php?id=3" target="content-frame"> ▶️ NOVELAS</a>            
-        <a href="https://play.frembed.site/api/player.php?id=22" target="content-frame"> ▶️ OCS Géants</a>
-        <a href="https://play.frembed.site/api/player.php?id=24" target="content-frame"> ▶️ OCS Max</a>
-        <a href="https://play.frembed.site/api/player.php?id=1" target="content-frame"> ▶️ RMC Sport 1</a>
-        <a href="https://play.frembed.site/api/player.php?id=2" target="content-frame"> ▶️ RMC Sport 2</a>
-        <a href="https://play.frembed.site/api/player.php?id=4" target="content-frame"> ▶️ RMC Sport 3</a>
-        <a href="https://play.frembed.site/api/player.php?id=39" target="content-frame"> ▶️ RMC Story</a>
-        <a href="https://play.frembed.site/api/player.php?id=26" target="content-frame"> ▶️ RMC Découverte</a>
-        <a href="https://play.frembed.site/api/player.php?id=31" target="content-frame"> ▶️ RTL9</a>
-        <a href="https://play.frembed.site/api/player.php?id=29" target="content-frame"> ▶️ SYFY</a>
-        <a href="https://play.frembed.site/api/player.php?id=33" target="content-frame"> ▶️ TCM Cinéma</a>
-        <a href="https://play.frembed.site/api/player.php?id=27" target="content-frame"> ▶️ TF1</a>          
-        <a href="https://play.frembed.site/api/player.php?id=36" target="content-frame"> ▶️ TFX</a>
-        <a href="https://play.frembed.site/api/player.php?id=37" target="content-frame"> ▶️ TMC</a>
-        <a href="https://play.frembed.site/api/player.php?id=32" target="content-frame"> ▶️ Ushuaïa</a>
-        <a href="https://play.frembed.site/api/player.php?id=38" target="content-frame"> ▶️ W9</a>
-        <a href="https://play.frembed.site/api/player.php?id=35" target="content-frame"> ▶️ WWE Network</a>
+        <a href="https://play.frembed.site/api/player.php?id=8" target="content-frame">⬜ beIN Sport 1</a>
+        <a href="https://play.frembed.site/api/player.php?id=9" target="content-frame">⬜ beIN Sport 2</a>
+        <a href="https://play.frembed.site/api/player.php?id=31" target="content-frame">⬜ beIN Sport 3</a>
+        <a href="https://play.frembed.site/api/player.php?id=40" target="content-frame">⬜ CANAL+</a>
+        <a href="https://play.frembed.site/api/player.php?id=6" target="content-frame">⬜ CANAL+ Foot</a>
+        <a href="https://play.frembed.site/api/player.php?id=33" target="content-frame">⬜ CANAL+ Formula 1</a>
+        <a href="https://play.frembed.site/api/player.php?id=5" target="content-frame">⬜ CANAL+ Sport 360</a>
+        <a href="https://play.frembed.site/api/player.php?id=32" target="content-frame">⬜ CANAL+ Sport</a>
+        <a href="https://play.frembed.site/api/player.php?id=28" target="content-frame">⬜ Cartoon Network</a>
+        <a href="https://play.frembed.site/api/player.php?id=34" target="content-frame">⬜ EUROSPORT 1</a>
+        <a href="https://play.frembed.site/api/player.php?id=35" target="content-frame">⬜ EUROSPORT 2</a>
+        <a href="https://play.frembed.site/api/player.php?id=30" target="content-frame">⬜ Game One</a>
+        <a href="https://play.frembed.site/api/player.php?id=7" target="content-frame">⬜ Mangas</a>
+        <a href="https://play.frembed.site/api/player.php?id=21" target="content-frame">⬜ NAT GEO Wild</a>
+        <a href="https://play.frembed.site/api/player.php?id=20" target="content-frame">⬜ NAT GEO</a>
+        <a href="https://play.frembed.site/api/player.php?id=3" target="content-frame">⬜ NOVELAS</a>            
+        <a href="https://play.frembed.site/api/player.php?id=22" target="content-frame">⬜ OCS Géants</a>
+        <a href="https://play.frembed.site/api/player.php?id=24" target="content-frame">⬜ OCS Max</a>
+        <a href="https://play.frembed.site/api/player.php?id=1" target="content-frame">⬜ RMC Sport 1</a>
+        <a href="https://play.frembed.site/api/player.php?id=2" target="content-frame">⬜ RMC Sport 2</a>
+        <a href="https://play.frembed.site/api/player.php?id=4" target="content-frame">⬜ RMC Sport 3</a>
+        <a href="https://play.frembed.site/api/player.php?id=39" target="content-frame">⬜ RMC Story</a>
+        <a href="https://play.frembed.site/api/player.php?id=26" target="content-frame">⬜ RMC Découverte</a>
+        <a href="https://play.frembed.site/api/player.php?id=31" target="content-frame">⬜ RTL9</a>
+        <a href="https://play.frembed.site/api/player.php?id=29" target="content-frame">⬜ SYFY</a>
+        <a href="https://play.frembed.site/api/player.php?id=33" target="content-frame">⬜ TCM Cinéma</a>
+        <a href="https://play.frembed.site/api/player.php?id=27" target="content-frame">⬜ TF1</a>          
+        <a href="https://play.frembed.site/api/player.php?id=36" target="content-frame">⬜ TFX</a>
+        <a href="https://play.frembed.site/api/player.php?id=37" target="content-frame">⬜ TMC</a>
+        <a href="https://play.frembed.site/api/player.php?id=32" target="content-frame">⬜ Ushuaïa</a>
+        <a href="https://play.frembed.site/api/player.php?id=38" target="content-frame">⬜ W9</a>
+        <a href="https://play.frembed.site/api/player.php?id=35" target="content-frame">⬜ WWE Network</a>
     </div>
 </div>
 
 <div class="accordion-item">
     <h5> 🖥️ WiTV</h5>
     <div class="panel">
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=159" target="_blank"> ▶️ 6ter</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=234" target="_blank"> ▶️ Arte</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=155" target="_blank"> ▶️ AUTOMOTO</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=44" target="_blank"> ▶️ beIN Sport 1</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=49" target="_blank"> ▶️ beIN Sport 2</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=50" target="_blank"> ▶️ beIN Sports 3</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=169" target="_blank"> ▶️ BFM TV</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=180" target="_blank"> ▶️ Boomerang</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=203" target="_blank"> ▶️ Cartoonito</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=76" target="_blank"> ▶️ Cartoon Network</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=106" target="_blank"> ▶️ Canal+</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=88" target="_blank"> ▶️ Canal+ Foot</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=58" target="_blank"> ▶️ Canal+ Sport 360</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=54" target="_blank"> ▶️ Canal+ Sport</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=55" target="_blank"> ▶️ Canal+ Sport 1</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=56" target="_blank"> ▶️ Canal+ Sport 2</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=57" target="_blank"> ▶️ Canal+ Sport 3</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=161" target="_blank"> ▶️ Canal+ Sport 4</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=162" target="_blank"> ▶️ Canal+ Sport 5</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=141" target="_blank"> ▶️ Canal+ SERIES</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=179" target="_blank"> ▶️ Canal J</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=198" target="_blank"> ▶️ Cine+ Family</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=199" target="_blank"> ▶️ Cine+ Classic</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=200" target="_blank"> ▶️ Cine+ Emotion</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=201" target="_blank"> ▶️ Cine+ Frisson</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=202" target="_blank"> ▶️ Cine+ Premier</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=171" target="_blank"> ▶️ CNews</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=204" target="_blank"> ▶️ CSTAR</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=205" target="_blank"> ▶️ Disney Channel</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=206" target="_blank"> ▶️ Disney JR</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=186" target="_blank"> ▶️ Discovery</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=185" target="_blank"> ▶️ Discovery Science</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=151" target="_blank"> ▶️ DAZN 2</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=150" target="_blank"> ▶️ DAZN 1</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=160" target="_blank"> ▶️ DAZN 3</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=59" target="_blank"> ▶️ Eurosport 1</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=60" target="_blank"> ▶️ Eurosport 2</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=137" target="_blank"> ▶️ France 2</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=138" target="_blank"> ▶️ France 3</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=173" target="_blank"> ▶️ Frane 24</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=104" target="_blank"> ▶️ Game One</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=207" target="_blank"> ▶️ Game Toon</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=208" target="_blank"> ▶️ Gulli</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=176" target="_blank"> ▶️ J One</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=113" target="_blank"> ▶️ L'Équipe sport</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=163" target="_blank"> ▶️ L'Équipe live 1</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=164" target="_blank"> ▶️ L'Équipe live 2</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=209" target="_blank"> ▶️ LCI</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=97" target="_blank"> ▶️ Mangas</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=210" target="_blank"> ▶️ MCM</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=211" target="_blank"> ▶️ Melody</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=111" target="_blank"> ▶️ MTV</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=212" target="_blank"> ▶️ MTV Hits</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=102" target="_blank"> ▶️ M6</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=110" target="_blank"> ▶️ M6 Music</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=109" target="_blank"> ▶️ NRJ Hits</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=178" target="_blank"> ▶️ Nickelodeon</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=81" target="_blank"> ▶️ Nat Geo</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=82" target="_blank"> ▶️ Nat Geo Wild</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=103" target="_blank"> ▶️ Novelas</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=156" target="_blank"> ▶️ OCS City</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=187" target="_blank"> ▶️ Planete+ Aventure</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=33" target="_blank"> ▶️ RMC Sport 1</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=40" target="_blank"> ▶️ RMC Sport 2</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=42" target="_blank"> ▶️ RMC Sport 3</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=90" target="_blank"> ▶️ RMC Découverte</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=80" target="_blank"> ▶️ RMC Story</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=172" target="_blank"> ▶️ RTS 1</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=213" target="_blank"> ▶️ Science &amp; Vie TV</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=91" target="_blank"> ▶️ Syfy</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=77" target="_blank"> ▶️ TFX</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=87" target="_blank"> ▶️ TF1</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=215" target="_blank"> ▶️ TF1 Séries Films</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=214" target="_blank"> ▶️ Télétoon+</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=177" target="_blank"> ▶️ Tiji</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=78" target="_blank"> ▶️ TMC</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=95" target="_blank"> ▶️ TMC Cinéma</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=184" target="_blank"> ▶️ Toute l'histoire</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=183" target="_blank"> ▶️ Warner Bros TV</a>
-        <a href="https://witv.skin/player/playerjs/witv-player.php?id=79" target="_blank"> ▶️ W9</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=159" target="_blank">⬜ 6ter</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=234" target="_blank">⬜ Arte</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=155" target="_blank">⬜ AUTOMOTO</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=44" target="_blank">⬜ beIN Sport 1</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=49" target="_blank">⬜ beIN Sport 2</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=50" target="_blank">⬜ beIN Sports 3</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=169" target="_blank">⬜ BFM TV</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=180" target="_blank">⬜ Boomerang</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=203" target="_blank">⬜ Cartoonito</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=76" target="_blank">⬜ Cartoon Network</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=106" target="_blank">⬜ Canal+</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=88" target="_blank">⬜ Canal+ Foot</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=58" target="_blank">⬜ Canal+ Sport 360</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=54" target="_blank">⬜ Canal+ Sport</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=55" target="_blank">⬜ Canal+ Sport 1</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=56" target="_blank">⬜ Canal+ Sport 2</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=57" target="_blank">⬜ Canal+ Sport 3</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=161" target="_blank">⬜ Canal+ Sport 4</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=162" target="_blank">⬜ Canal+ Sport 5</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=141" target="_blank">⬜ Canal+ SERIES</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=179" target="_blank">⬜ Canal J</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=198" target="_blank">⬜ Cine+ Family</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=199" target="_blank">⬜ Cine+ Classic</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=200" target="_blank">⬜ Cine+ Emotion</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=201" target="_blank">⬜ Cine+ Frisson</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=202" target="_blank">⬜ Cine+ Premier</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=171" target="_blank">⬜ CNews</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=204" target="_blank">⬜ CSTAR</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=205" target="_blank">⬜ Disney Channel</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=206" target="_blank">⬜ Disney JR</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=186" target="_blank">⬜ Discovery</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=185" target="_blank">⬜ Discovery Science</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=151" target="_blank">⬜ DAZN 2</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=150" target="_blank">⬜ DAZN 1</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=160" target="_blank">⬜ DAZN 3</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=59" target="_blank">⬜ Eurosport 1</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=60" target="_blank">⬜ Eurosport 2</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=137" target="_blank">⬜ France 2</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=138" target="_blank">⬜ France 3</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=173" target="_blank">⬜ Frane 24</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=104" target="_blank">⬜ Game One</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=207" target="_blank">⬜ Game Toon</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=208" target="_blank">⬜ Gulli</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=176" target="_blank">⬜ J One</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=113" target="_blank">⬜ L'Équipe sport</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=163" target="_blank">⬜ L'Équipe live 1</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=164" target="_blank">⬜ L'Équipe live 2</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=209" target="_blank">⬜ LCI</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=97" target="_blank">⬜ Mangas</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=210" target="_blank">⬜ MCM</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=211" target="_blank">⬜ Melody</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=111" target="_blank">⬜ MTV</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=212" target="_blank">⬜ MTV Hits</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=102" target="_blank">⬜ M6</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=110" target="_blank">⬜ M6 Music</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=109" target="_blank">⬜ NRJ Hits</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=178" target="_blank">⬜ Nickelodeon</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=81" target="_blank">⬜ Nat Geo</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=82" target="_blank">⬜ Nat Geo Wild</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=103" target="_blank">⬜ Novelas</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=156" target="_blank">⬜ OCS City</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=187" target="_blank">⬜ Planete+ Aventure</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=33" target="_blank">⬜ RMC Sport 1</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=40" target="_blank">⬜ RMC Sport 2</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=42" target="_blank">⬜ RMC Sport 3</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=90" target="_blank">⬜ RMC Découverte</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=80" target="_blank">⬜ RMC Story</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=172" target="_blank">⬜ RTS 1</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=213" target="_blank">⬜ Science &amp; Vie TV</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=91" target="_blank">⬜ Syfy</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=77" target="_blank">⬜ TFX</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=87" target="_blank">⬜ TF1</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=215" target="_blank">⬜ TF1 Séries Films</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=214" target="_blank">⬜ Télétoon+</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=177" target="_blank">⬜ Tiji</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=78" target="_blank">⬜ TMC</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=95" target="_blank">⬜ TMC Cinéma</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=184" target="_blank">⬜ Toute l'histoire</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=183" target="_blank">⬜ Warner Bros TV</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=79" target="_blank">⬜ W9</a>
     </div>
 </div>
 
 <div class="accordion-item">
     <h5> 🖥️ TuTVlive</h5>
     <div class="panel">
-        <a href="https://tutvlive.ru/player/3/1" target="content-iframe"> ▶️ beIN SPORT 1</a>
-        <a href="https://tutvlive.ru/player/3/2" target="content-iframe"> ▶️ beIN SPORT 2</a>
-        <a href="https://tutvlive.ru/player/3/3" target="content-iframe"> ▶️ beIN SPORT 3</a>
-        <a href="https://tutvlive.ru/player/3/4" target="content-iframe"> ▶️ beIN SPORT max 4</a>
-        <a href="https://tutvlive.ru/player/3/5" target="content-iframe"> ▶️ beIN SPORT max 5</a>
-        <a href="https://tutvlive.ru/player/3/6" target="content-iframe"> ▶️ beIN SPORT max 6</a>
-        <a href="https://tutvlive.ru/player/3/7" target="content-iframe"> ▶️ beIN SPORT max 7</a>
-        <a href="https://tutvlive.ru/player/3/8" target="content-iframe"> ▶️ beIN SPORT max 8</a>
-        <a href="https://tutvlive.ru/player/3/9" target="content-iframe"> ▶️ beIN SPORT max 9</a>
-        <a href="https://tutvlive.ru/player/3/10" target="content-iframe"> ▶️ beIN SPORT max 10</a>
-        <a href="https://tutvlive.ru/player/3/11" target="content-iframe"> ▶️ Canal+</a>
-        <a href="https://tutvlive.ru/player/3/12" target="content-iframe"> ▶️ Canal+ foot</a>
-        <a href="https://tutvlive.ru/player/3/13" target="content-iframe"> ▶️ Canal+ SPORT</a>
-        <a href="https://tutvlive.ru/player/3/14" target="content-iframe"> ▶️ Canal+ 360</a>
-        <a href="https://tutvlive.ru/player/3/20" target="content-iframe"> ▶️ DAZN 1</a>
-        <a href="https://tutvlive.ru/player/3/21" target="content-iframe"> ▶️ DAZN 2</a>
-        <a href="https://tutvlive.ru/player/3/22" target="content-iframe"> ▶️ DAZN 3</a>
-        <a href="https://tutvlive.ru/player/3/15" target="content-iframe"> ▶️ Eurosport 1</a>
-        <a href="https://tutvlive.ru/player/3/16" target="content-iframe"> ▶️ Eurosport 2</a>
-        <a href="https://tutvlive.ru/player/3/17" target="content-iframe"> ▶️ RMC SPORT 1</a>
-        <a href="https://tutvlive.ru/player/3/18" target="content-iframe"> ▶️ RMC SPORT 2</a>
-        <a href="https://tutvlive.ru/player/3/19" target="content-iframe"> ▶️ L'Equipe</a>
-        <a href="https://tutvlive.ru/player/3/23" target="content-iframe"> ▶️ AUTOMOTO</a>
-        <a href="https://tutvlive.ru/player/3/24" target="content-iframe"> ▶️ TF1</a>
-        <a href="https://tutvlive.ru/player/3/25" target="content-iframe"> ▶️ TMC</a>
-        <a href="https://tutvlive.ru/player/3/26" target="content-iframe"> ▶️ M6</a>
-        <a href="https://tutvlive.ru/player/3/27" target="content-iframe"> ▶️ W9</a>
-        <a href="https://tutvlive.ru/player/3/28" target="content-iframe"> ▶️ France 2</a>
-        <a href="https://tutvlive.ru/player/3/29" target="content-iframe"> ▶️ France 3</a>
-        <a href="https://tutvlive.ru/player/3/30" target="content-iframe"> ▶️ OKOO</a>
-        <a href="https://tutvlive.ru/player/3/32" target="content-iframe"> ▶️ Cana+ LIVE 2</a>
-        <a href="https://tutvlive.ru/player/3/41" target="content-iframe"> ▶️ DAZN 1</a>
-        <a href="https://tutvlive.ru/player/3/42" target="content-iframe"> ▶️ DAZN 2</a>
-        <a href="https://tutvlive.ru/player/3/43" target="content-iframe"> ▶️ DAZN 3</a>
-        <a href="https://tutvlive.ru/player/3/49" target="content-iframe"> ▶️ Laliga 1</a>
-        <a href="https://tutvlive.ru/player/3/53" target="content-iframe"> ▶️ Laliga 2</a>
-        <a href="https://tutvlive.ru/player/3/55" target="content-iframe"> ▶️ Laliga 3</a>
-        <a href="https://tutvlive.ru/player/3/56" target="content-iframe"> ▶️ DAZN 1 ES</a>
-        <a href="https://tutvlive.ru/player/3/57" target="content-iframe"> ▶️ DAZN 2 ES</a>
-        <a href="https://tutvlive.ru/player/3/58" target="content-iframe"> ▶️ DAZN 3 ES</a>
+        <a href="https://tutvlive.ru/player/3/1" target="content-iframe">⬜ beIN SPORT 1</a>
+        <a href="https://tutvlive.ru/player/3/2" target="content-iframe">⬜ beIN SPORT 2</a>
+        <a href="https://tutvlive.ru/player/3/3" target="content-iframe">⬜ beIN SPORT 3</a>
+        <a href="https://tutvlive.ru/player/3/4" target="content-iframe">⬜ beIN SPORT max 4</a>
+        <a href="https://tutvlive.ru/player/3/5" target="content-iframe">⬜ beIN SPORT max 5</a>
+        <a href="https://tutvlive.ru/player/3/6" target="content-iframe">⬜ beIN SPORT max 6</a>
+        <a href="https://tutvlive.ru/player/3/7" target="content-iframe">⬜ beIN SPORT max 7</a>
+        <a href="https://tutvlive.ru/player/3/8" target="content-iframe">⬜ beIN SPORT max 8</a>
+        <a href="https://tutvlive.ru/player/3/9" target="content-iframe">⬜ beIN SPORT max 9</a>
+        <a href="https://tutvlive.ru/player/3/10" target="content-iframe">⬜ beIN SPORT max 10</a>
+        <a href="https://tutvlive.ru/player/3/11" target="content-iframe">⬜ Canal+</a>
+        <a href="https://tutvlive.ru/player/3/12" target="content-iframe">⬜ Canal+ foot</a>
+        <a href="https://tutvlive.ru/player/3/13" target="content-iframe">⬜ Canal+ SPORT</a>
+        <a href="https://tutvlive.ru/player/3/14" target="content-iframe">⬜ Canal+ 360</a>
+        <a href="https://tutvlive.ru/player/3/20" target="content-iframe">⬜ DAZN 1</a>
+        <a href="https://tutvlive.ru/player/3/21" target="content-iframe">⬜ DAZN 2</a>
+        <a href="https://tutvlive.ru/player/3/22" target="content-iframe">⬜ DAZN 3</a>
+        <a href="https://tutvlive.ru/player/3/15" target="content-iframe">⬜ Eurosport 1</a>
+        <a href="https://tutvlive.ru/player/3/16" target="content-iframe">⬜ Eurosport 2</a>
+        <a href="https://tutvlive.ru/player/3/17" target="content-iframe">⬜ RMC SPORT 1</a>
+        <a href="https://tutvlive.ru/player/3/18" target="content-iframe">⬜ RMC SPORT 2</a>
+        <a href="https://tutvlive.ru/player/3/19" target="content-iframe">⬜ L'Equipe</a>
+        <a href="https://tutvlive.ru/player/3/23" target="content-iframe">⬜ AUTOMOTO</a>
+        <a href="https://tutvlive.ru/player/3/24" target="content-iframe">⬜ TF1</a>
+        <a href="https://tutvlive.ru/player/3/25" target="content-iframe">⬜ TMC</a>
+        <a href="https://tutvlive.ru/player/3/26" target="content-iframe">⬜ M6</a>
+        <a href="https://tutvlive.ru/player/3/27" target="content-iframe">⬜ W9</a>
+        <a href="https://tutvlive.ru/player/3/28" target="content-iframe">⬜ France 2</a>
+        <a href="https://tutvlive.ru/player/3/29" target="content-iframe">⬜ France 3</a>
+        <a href="https://tutvlive.ru/player/3/30" target="content-iframe">⬜ OKOO</a>
+        <a href="https://tutvlive.ru/player/3/32" target="content-iframe">⬜ Cana+ LIVE 2</a>
+        <a href="https://tutvlive.ru/player/3/41" target="content-iframe">⬜ DAZN 1</a>
+        <a href="https://tutvlive.ru/player/3/42" target="content-iframe">⬜ DAZN 2</a>
+        <a href="https://tutvlive.ru/player/3/43" target="content-iframe">⬜ DAZN 3</a>
+        <a href="https://tutvlive.ru/player/3/49" target="content-iframe">⬜ Laliga 1</a>
+        <a href="https://tutvlive.ru/player/3/53" target="content-iframe">⬜ Laliga 2</a>
+        <a href="https://tutvlive.ru/player/3/55" target="content-iframe">⬜ Laliga 3</a>
+        <a href="https://tutvlive.ru/player/3/56" target="content-iframe">⬜ DAZN 1 ES</a>
+        <a href="https://tutvlive.ru/player/3/57" target="content-iframe">⬜ DAZN 2 ES</a>
+        <a href="https://tutvlive.ru/player/3/58" target="content-iframe">⬜ DAZN 3 ES</a>
     </div>
 </div>
 
 <div class="accordion-item">
     <h5> 🖥️ Rereyano</h5>
     <div class="panel">
-        <a href="https://rereyano.ru/player/3/1" target="content-iframe"> ▶️ beIN SPORT 1</a>
-        <a href="https://rereyano.ru/player/3/2" target="content-iframe"> ▶️ beIN SPORT 2</a>
-        <a href="https://rereyano.ru/player/3/3" target="content-iframe"> ▶️ beIN SPORT 3</a>
-        <a href="https://rereyano.ru/player/3/4" target="content-iframe"> ▶️ beIN SPORT max 4</a>
-        <a href="https://rereyano.ru/player/3/5" target="content-iframe"> ▶️ beIN SPORT max 5</a>
-        <a href="https://rereyano.ru/player/3/6" target="content-iframe"> ▶️ beIN SPORT max 6</a>
-        <a href="https://rereyano.ru/player/3/7" target="content-iframe"> ▶️ beIN SPORT max 7</a>
-        <a href="https://rereyano.ru/player/3/8" target="content-iframe"> ▶️ beIN SPORT max 8</a>
-        <a href="https://rereyano.ru/player/3/9" target="content-iframe"> ▶️ beIN SPORT max 9</a>
-        <a href="https://rereyano.ru/player/3/10" target="content-iframe"> ▶️ beIN SPORT max 10</a>
-        <a href="https://rereyano.ru/player/3/11" target="content-iframe"> ▶️ Canal+</a>
-        <a href="https://rereyano.ru/player/3/12" target="content-iframe"> ▶️ Canal+ foot</a>
-        <a href="https://rereyano.ru/player/3/13" target="content-iframe"> ▶️ Canal+ SPORT</a>
-        <a href="https://rereyano.ru/player/3/14" target="content-iframe"> ▶️ Canal+ 360</a>
-        <a href="https://rereyano.ru/player/3/20" target="content-iframe"> ▶️ DAZN 1</a>
-        <a href="https://rereyano.ru/player/3/21" target="content-iframe"> ▶️ DAZN 2</a>
-        <a href="https://rereyano.ru/player/3/22" target="content-iframe"> ▶️ DAZN 3</a>
-        <a href="https://rereyano.ru/player/3/15" target="content-iframe"> ▶️ Eurosport 1</a>
-        <a href="https://rereyano.ru/player/3/16" target="content-iframe"> ▶️ Eurosport 2</a>
-        <a href="https://rereyano.ru/player/3/17" target="content-iframe"> ▶️ RMC SPORT 1</a>
-        <a href="https://rereyano.ru/player/3/18" target="content-iframe"> ▶️ RMC SPORT 2</a>
-        <a href="https://rereyano.ru/player/3/19" target="content-iframe"> ▶️ L'Equipe</a>
-        <a href="https://rereyano.ru/player/3/23" target="content-iframe"> ▶️ AUTOMOTO</a>
-        <a href="https://rereyano.ru/player/3/24" target="content-iframe"> ▶️ TF1</a>
-        <a href="https://rereyano.ru/player/3/25" target="content-iframe"> ▶️ TMC</a>
-        <a href="https://rereyano.ru/player/3/26" target="content-iframe"> ▶️ M6</a>
-        <a href="https://rereyano.ru/player/3/27" target="content-iframe"> ▶️ W9</a>
-        <a href="https://rereyano.ru/player/3/28" target="content-iframe"> ▶️ France 2</a>
-        <a href="https://rereyano.ru/player/3/29" target="content-iframe"> ▶️ France 3</a>
-        <a href="https://rereyano.ru/player/3/30" target="content-iframe"> ▶️ OKOO</a>
-        <a href="https://rereyano.ru/player/3/32" target="content-iframe"> ▶️ Cana+ LIVE 2</a>
-        <a href="https://rereyano.ru/player/3/41" target="content-iframe"> ▶️ DAZN 1</a>
-        <a href="https://rereyano.ru/player/3/42" target="content-iframe"> ▶️ DAZN 2</a>
-        <a href="https://rereyano.ru/player/3/43" target="content-iframe"> ▶️ DAZN 3</a>
-        <a href="https://rereyano.ru/player/3/49" target="content-iframe"> ▶️ Laliga 1</a>
-        <a href="https://rereyano.ru/player/3/53" target="content-iframe"> ▶️ Laliga 2</a>
-        <a href="https://rereyano.ru/player/3/55" target="content-iframe"> ▶️ Laliga 3</a>
-        <a href="https://rereyano.ru/player/3/56" target="content-iframe"> ▶️ DAZN 1 ES</a>
-        <a href="https://rereyano.ru/player/3/57" target="content-iframe"> ▶️ DAZN 2 ES</a>
-        <a href="https://rereyano.ru/player/3/58" target="content-iframe"> ▶️ DAZN 3 ES</a>
+        <a href="https://rereyano.ru/player/3/1" target="content-iframe">⬜ beIN SPORT 1</a>
+        <a href="https://rereyano.ru/player/3/2" target="content-iframe">⬜ beIN SPORT 2</a>
+        <a href="https://rereyano.ru/player/3/3" target="content-iframe">⬜ beIN SPORT 3</a>
+        <a href="https://rereyano.ru/player/3/4" target="content-iframe">⬜ beIN SPORT max 4</a>
+        <a href="https://rereyano.ru/player/3/5" target="content-iframe">⬜ beIN SPORT max 5</a>
+        <a href="https://rereyano.ru/player/3/6" target="content-iframe">⬜ beIN SPORT max 6</a>
+        <a href="https://rereyano.ru/player/3/7" target="content-iframe">⬜ beIN SPORT max 7</a>
+        <a href="https://rereyano.ru/player/3/8" target="content-iframe">⬜ beIN SPORT max 8</a>
+        <a href="https://rereyano.ru/player/3/9" target="content-iframe">⬜ beIN SPORT max 9</a>
+        <a href="https://rereyano.ru/player/3/10" target="content-iframe">⬜ beIN SPORT max 10</a>
+        <a href="https://rereyano.ru/player/3/11" target="content-iframe">⬜ Canal+</a>
+        <a href="https://rereyano.ru/player/3/12" target="content-iframe">⬜ Canal+ foot</a>
+        <a href="https://rereyano.ru/player/3/13" target="content-iframe">⬜ Canal+ SPORT</a>
+        <a href="https://rereyano.ru/player/3/14" target="content-iframe">⬜ Canal+ 360</a>
+        <a href="https://rereyano.ru/player/3/20" target="content-iframe">⬜ DAZN 1</a>
+        <a href="https://rereyano.ru/player/3/21" target="content-iframe">⬜ DAZN 2</a>
+        <a href="https://rereyano.ru/player/3/22" target="content-iframe">⬜ DAZN 3</a>
+        <a href="https://rereyano.ru/player/3/15" target="content-iframe">⬜ Eurosport 1</a>
+        <a href="https://rereyano.ru/player/3/16" target="content-iframe">⬜ Eurosport 2</a>
+        <a href="https://rereyano.ru/player/3/17" target="content-iframe">⬜ RMC SPORT 1</a>
+        <a href="https://rereyano.ru/player/3/18" target="content-iframe">⬜ RMC SPORT 2</a>
+        <a href="https://rereyano.ru/player/3/19" target="content-iframe">⬜ L'Equipe</a>
+        <a href="https://rereyano.ru/player/3/23" target="content-iframe">⬜ AUTOMOTO</a>
+        <a href="https://rereyano.ru/player/3/24" target="content-iframe">⬜ TF1</a>
+        <a href="https://rereyano.ru/player/3/25" target="content-iframe">⬜ TMC</a>
+        <a href="https://rereyano.ru/player/3/26" target="content-iframe">⬜ M6</a>
+        <a href="https://rereyano.ru/player/3/27" target="content-iframe">⬜ W9</a>
+        <a href="https://rereyano.ru/player/3/28" target="content-iframe">⬜ France 2</a>
+        <a href="https://rereyano.ru/player/3/29" target="content-iframe">⬜ France 3</a>
+        <a href="https://rereyano.ru/player/3/30" target="content-iframe">⬜ OKOO</a>
+        <a href="https://rereyano.ru/player/3/32" target="content-iframe">⬜ Cana+ LIVE 2</a>
+        <a href="https://rereyano.ru/player/3/41" target="content-iframe">⬜ DAZN 1</a>
+        <a href="https://rereyano.ru/player/3/42" target="content-iframe">⬜ DAZN 2</a>
+        <a href="https://rereyano.ru/player/3/43" target="content-iframe">⬜ DAZN 3</a>
+        <a href="https://rereyano.ru/player/3/49" target="content-iframe">⬜ Laliga 1</a>
+        <a href="https://rereyano.ru/player/3/53" target="content-iframe">⬜ Laliga 2</a>
+        <a href="https://rereyano.ru/player/3/55" target="content-iframe">⬜ Laliga 3</a>
+        <a href="https://rereyano.ru/player/3/56" target="content-iframe">⬜ DAZN 1 ES</a>
+        <a href="https://rereyano.ru/player/3/57" target="content-iframe">⬜ DAZN 2 ES</a>
+        <a href="https://rereyano.ru/player/3/58" target="content-iframe">⬜ DAZN 3 ES</a>
     </div>
 </div>
 
@@ -218,47 +218,47 @@
 <div class="accordion-item">
     <h5> 🖥️ FreeShot</h5>
     <div class="panel">
-        <a href="https://freeshot.live/embed/beINSPORTS1FR.php" target="content-iframe"> ▶️ beIN SPORTS 1</a>
-        <a href="https://freeshot.live/embed/beINSPORTS2FR.php" target="content-iframe"> ▶️ beIN SPORTS 2</a>
-        <a href="https://freeshot.live/embed/beINSPORTS3FR.php" target="content-iframe"> ▶️ beIN SPORTS 3</a>
-        <a href="https://freeshot.live/embed/beINSPORTSMax4FR.php" target="content-iframe"> ▶️ beIN SPORTS Max 4</a>
-        <a href="https://freeshot.live/embed/beINSPORTSMax5FR.php" target="content-iframe"> ▶️ beIN SPORTS Max 5</a>
-        <a href="https://freeshot.live/embed/beINSPORTSMax6FR.php" target="content-iframe"> ▶️ beIN SPORTS Max 6</a>
-        <a href="https://freeshot.live/embed/beINSPORTSMax7FR.php" target="content-iframe"> ▶️ beIN SPORTS Max 7</a>
-        <a href="https://freeshot.live/embed/beINSPORTSMax8FR.php" target="content-iframe"> ▶️ beIN SPORTS Max 8</a>
-        <a href="https://freeshot.live/embed/beINSPORTSMax9FR.php" target="content-iframe"> ▶️ beIN SPORTS Max 9</a>
-        <a href="https://freeshot.live/embed/CanalPlusDOCSFR.php" target="content-iframe"> ▶️ CANAL+ DOCS</a>
-        <a href="https://freeshot.live/embed/FootPlusFR.php" target="content-iframe"> ▶️ CANAL+ FOOT</a>
-        <a href="https://freeshot.live/embed/Canal+F1.php" target="content-iframe"> ▶️ CANAL+ FORMULE 1</a>
-        <a href="https://freeshot.live/embed/CanalPlusFR.php" target="content-iframe"> ▶️ CANAL+</a>
-        <a href="https://freeshot.live/embed/Canal+MotoGPFR.php" target="content-iframe"> ▶️ CANAL+ MOTO GP</a>
-        <a href="https://freeshot.live/embed/Canal+SportAF.php" target="content-iframe"> ▶️ CANAL+ SPORT 1</a>
-        <a href="https://freeshot.live/embed/Canal+Sport2AF.php" target="content-iframe"> ▶️ CANAL+ SPORT 2</a>
-        <a href="https://freeshot.live/embed/Canal+Sport3AF.php" target="content-iframe"> ▶️ CANAL+ SPORT 3</a>
-        <a href="https://freeshot.live/embed/Canal+Sport4AF.php" target="content-iframe"> ▶️ CANAL+ SPORT 4</a>
-        <a href="https://freeshot.live/embed/Canal+Sport5AF.php" target="content-iframe"> ▶️ CANAL+ SPORT 5</a>
-        <a href="https://freeshot.live/embed/Canal+Sport360.php" target="content-iframe"> ▶️ CANAL+ SPORT 360</a>
-        <a href="https://freeshot.live/embed/Canal+SportFR.php" target="content-iframe"> ▶️ CANAL+ SPORT</a>
-        <a href="https://freeshot.live/embed/DAZN1FR.php" target="content-iframe"> ▶️ DAZN 1</a>
-        <a href="https://freeshot.live/embed/ElevenProLeague1.php" target="content-iframe"> ▶️ ELEVEN PRO LEAGUE 1</a>
-        <a href="https://freeshot.live/embed/ElevenProLeague2.php" target="content-iframe"> ▶️ ELEVEN PRO LEAGUE 2</a>
-        <a href="https://freeshot.live/embed/ElevenProLeague3.php" target="content-iframe"> ▶️ ELEVEN PRO LEAGUE 3</a>
-        <a href="https://freeshot.live/embed/ER1FR.php" target="content-iframe"> ▶️ EQUIDIA</a>
-        <a href="https://freeshot.live/embed/Eurosport1FR.php" target="content-iframe"> ▶️ EUROSPORT 1</a>
-        <a href="https://freeshot.live/embed/Eurosport2FR.php" target="content-iframe"> ▶️ EUROSPORT 2</a>
-        <a href="https://freeshot.live/embed/Infosport+FR.php" target="content-iframe"> ▶️ INFOSPORT+</a>
-        <a href="https://freeshot.live/embed/LEquipeFR.php" target="content-iframe"> ▶️ L'ÉQUIPE</a>
-        <a href="https://freeshot.live/embed/LEquipeLive1.php" target="content-iframe"> ▶️ L'Equipe Live 1</a>
-        <a href="https://freeshot.live/embed/LEquipeLive2.php" target="content-iframe"> ▶️ L'Equipe Live 2</a>
-        <a href="https://freeshot.live/embed/RMCSport1.php" target="content-iframe"> ▶️ RMC Sport 1</a>
-        <a href="https://freeshot.live/embed/RMCSport2.php" target="content-iframe"> ▶️ RMC Sport 2</a>
-        <a href="https://freeshot.live/embed/SportenFrance.php" target="content-iframe"> ▶️ Sport en France</a>
+        <a href="https://freeshot.live/embed/beINSPORTS1FR.php" target="content-iframe">⬜ beIN SPORTS 1</a>
+        <a href="https://freeshot.live/embed/beINSPORTS2FR.php" target="content-iframe">⬜ beIN SPORTS 2</a>
+        <a href="https://freeshot.live/embed/beINSPORTS3FR.php" target="content-iframe">⬜ beIN SPORTS 3</a>
+        <a href="https://freeshot.live/embed/beINSPORTSMax4FR.php" target="content-iframe">⬜ beIN SPORTS Max 4</a>
+        <a href="https://freeshot.live/embed/beINSPORTSMax5FR.php" target="content-iframe">⬜ beIN SPORTS Max 5</a>
+        <a href="https://freeshot.live/embed/beINSPORTSMax6FR.php" target="content-iframe">⬜ beIN SPORTS Max 6</a>
+        <a href="https://freeshot.live/embed/beINSPORTSMax7FR.php" target="content-iframe">⬜ beIN SPORTS Max 7</a>
+        <a href="https://freeshot.live/embed/beINSPORTSMax8FR.php" target="content-iframe">⬜ beIN SPORTS Max 8</a>
+        <a href="https://freeshot.live/embed/beINSPORTSMax9FR.php" target="content-iframe">⬜ beIN SPORTS Max 9</a>
+        <a href="https://freeshot.live/embed/CanalPlusDOCSFR.php" target="content-iframe">⬜ CANAL+ DOCS</a>
+        <a href="https://freeshot.live/embed/FootPlusFR.php" target="content-iframe">⬜ CANAL+ FOOT</a>
+        <a href="https://freeshot.live/embed/Canal+F1.php" target="content-iframe">⬜ CANAL+ FORMULE 1</a>
+        <a href="https://freeshot.live/embed/CanalPlusFR.php" target="content-iframe">⬜ CANAL+</a>
+        <a href="https://freeshot.live/embed/Canal+MotoGPFR.php" target="content-iframe">⬜ CANAL+ MOTO GP</a>
+        <a href="https://freeshot.live/embed/Canal+SportAF.php" target="content-iframe">⬜ CANAL+ SPORT 1</a>
+        <a href="https://freeshot.live/embed/Canal+Sport2AF.php" target="content-iframe">⬜ CANAL+ SPORT 2</a>
+        <a href="https://freeshot.live/embed/Canal+Sport3AF.php" target="content-iframe">⬜ CANAL+ SPORT 3</a>
+        <a href="https://freeshot.live/embed/Canal+Sport4AF.php" target="content-iframe">⬜ CANAL+ SPORT 4</a>
+        <a href="https://freeshot.live/embed/Canal+Sport5AF.php" target="content-iframe">⬜ CANAL+ SPORT 5</a>
+        <a href="https://freeshot.live/embed/Canal+Sport360.php" target="content-iframe">⬜ CANAL+ SPORT 360</a>
+        <a href="https://freeshot.live/embed/Canal+SportFR.php" target="content-iframe">⬜ CANAL+ SPORT</a>
+        <a href="https://freeshot.live/embed/DAZN1FR.php" target="content-iframe">⬜ DAZN 1</a>
+        <a href="https://freeshot.live/embed/ElevenProLeague1.php" target="content-iframe">⬜ ELEVEN PRO LEAGUE 1</a>
+        <a href="https://freeshot.live/embed/ElevenProLeague2.php" target="content-iframe">⬜ ELEVEN PRO LEAGUE 2</a>
+        <a href="https://freeshot.live/embed/ElevenProLeague3.php" target="content-iframe">⬜ ELEVEN PRO LEAGUE 3</a>
+        <a href="https://freeshot.live/embed/ER1FR.php" target="content-iframe">⬜ EQUIDIA</a>
+        <a href="https://freeshot.live/embed/Eurosport1FR.php" target="content-iframe">⬜ EUROSPORT 1</a>
+        <a href="https://freeshot.live/embed/Eurosport2FR.php" target="content-iframe">⬜ EUROSPORT 2</a>
+        <a href="https://freeshot.live/embed/Infosport+FR.php" target="content-iframe">⬜ INFOSPORT+</a>
+        <a href="https://freeshot.live/embed/LEquipeFR.php" target="content-iframe">⬜ L'ÉQUIPE</a>
+        <a href="https://freeshot.live/embed/LEquipeLive1.php" target="content-iframe">⬜ L'Equipe Live 1</a>
+        <a href="https://freeshot.live/embed/LEquipeLive2.php" target="content-iframe">⬜ L'Equipe Live 2</a>
+        <a href="https://freeshot.live/embed/RMCSport1.php" target="content-iframe">⬜ RMC Sport 1</a>
+        <a href="https://freeshot.live/embed/RMCSport2.php" target="content-iframe">⬜ RMC Sport 2</a>
+        <a href="https://freeshot.live/embed/SportenFrance.php" target="content-iframe">⬜ Sport en France</a>
     </div>
 
     <div class="accordion-item">
     <h5> 🖥️ Serveur </h5>
     <div class="panel">
-        <a href="https://freeshot.live/embed/beINSPORTS1FR.php" target="content-iframe"> ▶️ beIN SPORTS 1</a>
+        <a href="https://freeshot.live/embed/beINSPORTS1FR.php" target="content-iframe">⬜ beIN SPORTS 1</a>
     </div>
     -->
 </div>
