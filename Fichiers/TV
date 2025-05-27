@@ -1,3 +1,11 @@
+<div class="accordion-item">
+    <h5> 🌐 TuTVlive FHD</h5>
+    <div class="panel">
+        <a href="https://tutvlive.xyz/mpd/tvfhd.php?sTL3?id=558" target="content-frame">⬜ beIN Sport 1</a>
+        <a href="https://tutvlive.xyz/mpd/tvfhd.php?sTL3?id=525" target="content-frame">⬜ beIN Sport 1</a>
+        <a href="https://tutvlive.xyz/mpd/tvfhd.php?sTL4?id=espn7" target="content-frame">⬜ beIN Sport 1</a>
+    </div>
+</div>
 
 <div class="accordion-item">
     <h5> 🌐 Frembed</h5>
@@ -294,5 +302,13 @@
     </div>
 </div>
 
-    -->
+
+<div class="accordion-item">
+    <h5> 🌐 Direct StreamFR</h5>
+    <div class="panel">
+        <a href="https://direct-streamfr.live/player/player.php?id=8" target="content-frame">⬜ beIN Sport 1</a>
+    </div>
+</div>
+
+-->
 </div>
