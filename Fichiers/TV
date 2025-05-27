@@ -1,0 +1,33 @@
+<div class="accordion-item">
+    <h5> 🖥️ Frembed Club</h5>
+    <div class="panel">
+        <a href="https://play.frembed.site/api/player.php?id=8" target="content-frame"> 📺 beIN Sport 1</a>
+        <a href="https://play.frembed.site/api/player.php?id=9" target="content-frame"> 📺 beIN Sport 2</a>
+    </div>
+</div>
+
+<div class="accordion-item">
+    <h5> 🖥️ WiTV</h5>
+    <div class="panel">
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=159" target="_blank"> 📺 6ter</a>
+        <a href="https://witv.skin/player/playerjs/witv-player.php?id=234" target="_blank"> 📺 Arte</a>
+    </div>
+</div>
+
+<div class="accordion-item">
+    <h5> 🖥️ TuTVlive</h5>
+    <div class="panel">
+        <a href="https://tutvlive.ru/player/3/1" target="content-iframe"> 📺 beIN SPORT 1</a>
+        <a href="https://tutvlive.ru/player/3/2" target="content-iframe"> 📺 beIN SPORT 2</a>
+        <a href="https://tutvlive.ru/player/3/3" target="content-iframe"> 📺 beIN SPORT 3</a>
+    </div>
+</div>
+
+<div class="accordion-item">
+    <h5> 🖥️ Rereyano</h5>
+    <div class="panel">
+        <a href="https://rereyano.ru/player/3/1" target="content-iframe"> 📺 beIN SPORT 1</a>
+        <a href="https://rereyano.ru/player/3/2" target="content-iframe"> 📺 beIN SPORT 2</a>
+        <a href="https://rereyano.ru/player/3/3" target="content-iframe"> 📺 beIN SPORT 3</a>
+    </div>
+</div>
