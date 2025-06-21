@@ -1,3 +1,42 @@
+
+<div class="accordion-item">
+<h5> 🌐 Direct FR</h5>
+    <div class="panel">
+        <a href="https://directfr.live/player/player.php?id=8" target="content-frame">⬜ beIN Sport 1</a>
+        <a href="https://directfr.live/player/player.php?id=9" target="content-frame">⬜ beIN Sport 2</a>
+        <a href="https://directfr.live/player/player.php?id=31" target="content-frame">⬜ beIN Sport 3</a>
+        <a href="https://directfr.live/player/player.php?id=40" target="content-frame">⬜ CANAL+</a>
+        <a href="https://directfr.live/player/player.php?id=6" target="content-frame">⬜ CANAL+ Foot</a>
+        <a href="https://directfr.live/player/player.php?id=33" target="content-frame">⬜ CANAL+ Formula 1</a>
+        <a href="https://directfr.live/player/player.php?id=5" target="content-frame">⬜ CANAL+ Sport 360</a>
+        <a href="https://directfr.live/player/player.php?id=32" target="content-frame">⬜ CANAL+ Sport</a>
+        <a href="https://directfr.live/player/player.php?id=28" target="content-frame">⬜ Cartoon Network</a>
+        <a href="https://directfr.live/player/player.php?id=34" target="content-frame">⬜ EUROSPORT 1</a>
+        <a href="https://directfr.live/player/player.php?id=35" target="content-frame">⬜ EUROSPORT 2</a>
+        <a href="https://directfr.live/player/player.php?id=30" target="content-frame">⬜ Game One</a>
+        <a href="https://directfr.live/player/player.php?id=7" target="content-frame">⬜ Mangas</a>
+        <a href="https://directfr.live/player/player.php?id=21" target="content-frame">⬜ NAT GEO Wild</a>
+        <a href="https://directfr.live/player/player.php?id=20" target="content-frame">⬜ NAT GEO</a>
+        <a href="https://directfr.live/player/player.php?id=3" target="content-frame">⬜ NOVELAS</a>            
+        <a href="https://directfr.live/player/player.php?id=22" target="content-frame">⬜ OCS Géants</a>
+        <a href="https://directfr.live/player/player.php?id=24" target="content-frame">⬜ OCS Max</a>
+        <a href="https://directfr.live/player/player.php?id=1" target="content-frame">⬜ RMC Sport 1</a>
+        <a href="https://directfr.live/player/player.php?id=2" target="content-frame">⬜ RMC Sport 2</a>
+        <a href="https://directfr.live/player/player.php?id=4" target="content-frame">⬜ RMC Sport 3</a>
+        <a href="https://directfr.live/player/player.php?id=39" target="content-frame">⬜ RMC Story</a>
+        <a href="https://directfr.live/player/player.php?id=26" target="content-frame">⬜ RMC Découverte</a>
+        <a href="https://directfr.live/player/player.php?id=31" target="content-frame">⬜ RTL9</a>
+        <a href="https://directfr.live/player/player.php?id=29" target="content-frame">⬜ SYFY</a>
+        <a href="https://directfr.live/player/player.php?id=33" target="content-frame">⬜ TCM Cinéma</a>
+        <a href="https://directfr.live/player/player.php?id=27" target="content-frame">⬜ TF1</a>          
+        <a href="https://directfr.live/player/player.php?id=36" target="content-frame">⬜ TFX</a>
+        <a href="https://directfr.live/player/player.php?id=37" target="content-frame">⬜ TMC</a>
+        <a href="https://directfr.live/player/player.php?id=32" target="content-frame">⬜ Ushuaïa</a>
+        <a href="https://directfr.live/player/player.php?id=38" target="content-frame">⬜ W9</a>
+        <a href="https://directfr.live/player/player.php?id=35" target="content-frame">⬜ WWE Network</a>
+    </div>
+</div>
+
 <div class="accordion-item">
     <h5> 🌐 Frembed</h5>
     <div class="panel">
@@ -214,101 +253,4 @@
     </div>
 </div>
 
-<!-- 
-<div class="accordion-item">
-    <h5> 🌐 FreeShot</h5>
-    <div class="panel">
-        <a href="https://freeshot.live/embed/beINSPORTS1FR.php" target="content-iframe">⬜ beIN SPORTS 1</a>
-        <a href="https://freeshot.live/embed/beINSPORTS2FR.php" target="content-iframe">⬜ beIN SPORTS 2</a>
-        <a href="https://freeshot.live/embed/beINSPORTS3FR.php" target="content-iframe">⬜ beIN SPORTS 3</a>
-        <a href="https://freeshot.live/embed/beINSPORTSMax4FR.php" target="content-iframe">⬜ beIN SPORTS Max 4</a>
-        <a href="https://freeshot.live/embed/beINSPORTSMax5FR.php" target="content-iframe">⬜ beIN SPORTS Max 5</a>
-        <a href="https://freeshot.live/embed/beINSPORTSMax6FR.php" target="content-iframe">⬜ beIN SPORTS Max 6</a>
-        <a href="https://freeshot.live/embed/beINSPORTSMax7FR.php" target="content-iframe">⬜ beIN SPORTS Max 7</a>
-        <a href="https://freeshot.live/embed/beINSPORTSMax8FR.php" target="content-iframe">⬜ beIN SPORTS Max 8</a>
-        <a href="https://freeshot.live/embed/beINSPORTSMax9FR.php" target="content-iframe">⬜ beIN SPORTS Max 9</a>
-        <a href="https://freeshot.live/embed/CanalPlusDOCSFR.php" target="content-iframe">⬜ CANAL+ DOCS</a>
-        <a href="https://freeshot.live/embed/FootPlusFR.php" target="content-iframe">⬜ CANAL+ FOOT</a>
-        <a href="https://freeshot.live/embed/Canal+F1.php" target="content-iframe">⬜ CANAL+ FORMULE 1</a>
-        <a href="https://freeshot.live/embed/CanalPlusFR.php" target="content-iframe">⬜ CANAL+</a>
-        <a href="https://freeshot.live/embed/Canal+MotoGPFR.php" target="content-iframe">⬜ CANAL+ MOTO GP</a>
-        <a href="https://freeshot.live/embed/Canal+SportAF.php" target="content-iframe">⬜ CANAL+ SPORT 1</a>
-        <a href="https://freeshot.live/embed/Canal+Sport2AF.php" target="content-iframe">⬜ CANAL+ SPORT 2</a>
-        <a href="https://freeshot.live/embed/Canal+Sport3AF.php" target="content-iframe">⬜ CANAL+ SPORT 3</a>
-        <a href="https://freeshot.live/embed/Canal+Sport4AF.php" target="content-iframe">⬜ CANAL+ SPORT 4</a>
-        <a href="https://freeshot.live/embed/Canal+Sport5AF.php" target="content-iframe">⬜ CANAL+ SPORT 5</a>
-        <a href="https://freeshot.live/embed/Canal+Sport360.php" target="content-iframe">⬜ CANAL+ SPORT 360</a>
-        <a href="https://freeshot.live/embed/Canal+SportFR.php" target="content-iframe">⬜ CANAL+ SPORT</a>
-        <a href="https://freeshot.live/embed/DAZN1FR.php" target="content-iframe">⬜ DAZN 1</a>
-        <a href="https://freeshot.live/embed/ElevenProLeague1.php" target="content-iframe">⬜ ELEVEN PRO LEAGUE 1</a>
-        <a href="https://freeshot.live/embed/ElevenProLeague2.php" target="content-iframe">⬜ ELEVEN PRO LEAGUE 2</a>
-        <a href="https://freeshot.live/embed/ElevenProLeague3.php" target="content-iframe">⬜ ELEVEN PRO LEAGUE 3</a>
-        <a href="https://freeshot.live/embed/ER1FR.php" target="content-iframe">⬜ EQUIDIA</a>
-        <a href="https://freeshot.live/embed/Eurosport1FR.php" target="content-iframe">⬜ EUROSPORT 1</a>
-        <a href="https://freeshot.live/embed/Eurosport2FR.php" target="content-iframe">⬜ EUROSPORT 2</a>
-        <a href="https://freeshot.live/embed/Infosport+FR.php" target="content-iframe">⬜ INFOSPORT+</a>
-        <a href="https://freeshot.live/embed/LEquipeFR.php" target="content-iframe">⬜ L'ÉQUIPE</a>
-        <a href="https://freeshot.live/embed/LEquipeLive1.php" target="content-iframe">⬜ L'Equipe Live 1</a>
-        <a href="https://freeshot.live/embed/LEquipeLive2.php" target="content-iframe">⬜ L'Equipe Live 2</a>
-        <a href="https://freeshot.live/embed/RMCSport1.php" target="content-iframe">⬜ RMC Sport 1</a>
-        <a href="https://freeshot.live/embed/RMCSport2.php" target="content-iframe">⬜ RMC Sport 2</a>
-        <a href="https://freeshot.live/embed/SportenFrance.php" target="content-iframe">⬜ Sport en France</a>
-    </div>
-
-<div class="accordion-item">
-    <h5> 🌐 Direct StreamFR</h5>
-    <div class="panel">
-        <a href="https://direct-streamfr.live/player/player.php?id=8" target="content-frame">⬜ beIN Sport 1</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=9" target="content-frame">⬜ beIN Sport 2</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=31" target="content-frame">⬜ beIN Sport 3</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=40" target="content-frame">⬜ CANAL+</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=6" target="content-frame">⬜ CANAL+ Foot</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=33" target="content-frame">⬜ CANAL+ Formula 1</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=5" target="content-frame">⬜ CANAL+ Sport 360</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=32" target="content-frame">⬜ CANAL+ Sport</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=28" target="content-frame">⬜ Cartoon Network</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=34" target="content-frame">⬜ EUROSPORT 1</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=35" target="content-frame">⬜ EUROSPORT 2</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=30" target="content-frame">⬜ Game One</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=7" target="content-frame">⬜ Mangas</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=21" target="content-frame">⬜ NAT GEO Wild</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=20" target="content-frame">⬜ NAT GEO</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=3" target="content-frame">⬜ NOVELAS</a>            
-        <a href="https://direct-streamfr.live/player/player.php?id=22" target="content-frame">⬜ OCS Géants</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=24" target="content-frame">⬜ OCS Max</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=1" target="content-frame">⬜ RMC Sport 1</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=2" target="content-frame">⬜ RMC Sport 2</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=4" target="content-frame">⬜ RMC Sport 3</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=39" target="content-frame">⬜ RMC Story</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=26" target="content-frame">⬜ RMC Découverte</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=31" target="content-frame">⬜ RTL9</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=29" target="content-frame">⬜ SYFY</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=33" target="content-frame">⬜ TCM Cinéma</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=27" target="content-frame">⬜ TF1</a>          
-        <a href="https://direct-streamfr.live/player/player.php?id=36" target="content-frame">⬜ TFX</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=37" target="content-frame">⬜ TMC</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=32" target="content-frame">⬜ Ushuaïa</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=38" target="content-frame">⬜ W9</a>
-        <a href="https://direct-streamfr.live/player/player.php?id=35" target="content-frame">⬜ WWE Network</a>
-    </div>
-</div>
-
-<div class="accordion-item">
-    <h5> 🌐 TuTVlive FHD</h5>
-    <div class="panel">
-        <a href="https://tutvlive.xyz/mpd/tvfhd.php?sTL3?id=558" target="content-frame">⬜ beIN Sport 1</a>
-        <a href="https://tutvlive.xyz/mpd/tvfhd.php?sTL3?id=525" target="content-frame">⬜ beIN Sport 1</a>
-        <a href="https://tutvlive.xyz/mpd/tvfhd.php?sTL4?id=espn7" target="content-frame">⬜ beIN Sport 1</a>
-    </div>
-</div>
-
-
-<div class="accordion-item">
-    <h5> 🌐 Direct StreamFR</h5>
-    <div class="panel">
-        <a href="https://direct-streamfr.live/player/player.php?id=8" target="content-frame">⬜ beIN Sport 1</a>
-    </div>
-</div>
-
--->
 </div>
